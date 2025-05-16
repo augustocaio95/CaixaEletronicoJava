@@ -1,5 +1,3 @@
-# Projeto: Caixa Eletrônico
-
 ## Descrição
 
 Esta é uma atividade acadêmica desenvolvida em Java, cujo objetivo é criar um sistema que simula as funcionalidades básicas de um caixa eletrônico. O sistema foi projetado a partir de um fluxograma que define as interações do usuário.
